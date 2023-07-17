@@ -2,9 +2,9 @@
 
 👓Sou focado no que eu quero. 
  🖥 Passei a amar programação .
- 😎Tenho 23 Anos.
+ 😎Tenho 24 Anos.
  ✌Tenho facilidade em aprender, e entrei no mundo da programação por paixão a tecnologia. 
-👽E-mail para contato: rhuanjanau531@gmail.com
+ 👽E-mail para contato: rhuanjanau531@gmail.com
 
 <div>
   <div align="center">
