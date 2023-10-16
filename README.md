@@ -1,9 +1,8 @@
 ## Seja bem vindo ao meu perfil ❤
 
-👓Sou focado no que eu quero. 
- 🖥 Passei a amar programação .
- 😎Tenho 24 Anos.
- ✌Tenho facilidade em aprender, e entrei no mundo da programação por paixão a tecnologia. 
+👓Sempre focado em melhorar todo dia | 
+ 😎Tenho 24 Anos | 
+ ✌Sou musicista onde toco 7 instrumentos, e isso me ajuda a melhorar a mente tanto pra vida pessoal quanto profissional.
  👽E-mail para contato: rhuanjanau531@gmail.com
 
 <div>
