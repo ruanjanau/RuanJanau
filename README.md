@@ -5,17 +5,7 @@
  ✌Sou musicista onde toco 7 instrumentos, e isso me ajuda a melhorar a mente tanto pra vida pessoal quanto profissional.
  👽E-mail para contato: rhuanjanau531@gmail.com
 
-<div>
-  <div align="center">
-  <a href="https://github.com/RuanJanau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanJanau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanJanau&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-    <div align="center">
- <div style="display: inline_block"><br>   
- <img align="center" alt="Rafa-Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
- <img align="center" alt="Rafa-Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
- </div>
+
       
  ##
       
