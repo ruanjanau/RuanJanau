@@ -18,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/ruanjanau/RuanJanau/output/snake.svg" alt="Snake animation" />
 </div>
 
+## Redes
 <div align="center">
   <a href="https://www.instagram.com/ruan.janau/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
