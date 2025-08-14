@@ -1,10 +1,10 @@
 ## Seja bem vindo ao meu perfil ❤
 
-💻 Desenvolvedor Mobile com 5 anos de experiência criando aplicativos de alta performance e interfaces modernas.
-🚀 Especialista em Flutter/Dart e Kotlin, desenvolvendo soluções para Android e iOS com foco em qualidade, usabilidade e escalabilidade.
-🔍 Apaixonado por tecnologia, boas práticas de código e constante aprendizado.
-📱 Experiência em todo o ciclo de desenvolvimento mobile — desde o protótipo até a publicação e manutenção.  
-👽 E-mail para contato: rhuanjanau531@gmail.com  
+💻 Desenvolvedor Mobile com 5 anos de experiência criando aplicativos de alta performance e interfaces modernas.  
+🚀 Especialista em Flutter/Dart e Kotlin, desenvolvendo soluções para Android e iOS com foco em qualidade, usabilidade e escalabilidade.  
+🔍 Apaixonado por tecnologia, boas práticas de código e constante aprendizado.  
+📱 Experiência em todo o ciclo de desenvolvimento mobile — desde o protótipo até a publicação e manutenção.    
+👽 E-mail para contato: rhuanjanau531@gmail.com    
 
 <div align="center">
   <a href="https://github.com/RuanJanau">
