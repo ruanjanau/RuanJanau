@@ -1,8 +1,9 @@
 ## Seja bem vindo ao meu perfil ❤
 
-👓 Sempre focado em melhorar todo dia |  
-😎 Tenho 26 Anos |  
-✌ Sou musicista onde toco 7 instrumentos, e isso me ajuda a melhorar a mente tanto pra vida pessoal quanto profissional.  
+💻 Desenvolvedor Mobile com 5 anos de experiência criando aplicativos de alta performance e interfaces modernas.
+🚀 Especialista em Flutter/Dart e Kotlin, desenvolvendo soluções para Android e iOS com foco em qualidade, usabilidade e escalabilidade.
+🔍 Apaixonado por tecnologia, boas práticas de código e constante aprendizado.
+📱 Experiência em todo o ciclo de desenvolvimento mobile — desde o protótipo até a publicação e manutenção.  
 👽 E-mail para contato: rhuanjanau531@gmail.com  
 
 <div align="center">
